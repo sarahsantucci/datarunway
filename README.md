@@ -13,4 +13,7 @@ No universo dinâmico da moda, onde tendências surgem e se reinventam constante
 ## Resumo 
 O projeto consistiu na investigação e aplicação de tecnologias inteligentes voltadas ao universo da criação e do design, com o objetivo de explorar novas oportunidades criativas e estratégicas. Durante o desenvolvimento, todas as etapas, do planejamento à experimentação e análise, foram acompanhadas de validações, garantindo resultados consistentes e confiáveis. Entre os principais aspectos do trabalho destacam-se a organização estruturada dos elementos, a aplicação prática dos conceitos estudados, a identificação de desafios na integração dessas ferramentas em processos criativos e a geração de insights capazes de orientar decisões estratégicas e estimular a inovação no setor.
 
-
+## Principais fontes e referências
+- *AI in the Fashion Industry Statistics: Reports 2025* — relatório sobre adoção de IA no setor.  
+- *Fashion Brand Social Listening Statistics 2025* — dados de share of voice durante semanas de moda.  
+- Heuritech, Stylumia, Trendalytics — plataformas citadas no ebook.
